@@ -33,3 +33,6 @@ Called a specific function to a specific gesture
 
 # Motion Detector
 This program takes in video feed inputs and applies techniques like background subtraction to detect moving objects. This can be used to detect motion in surveillance cameras to prevent unauthorized access in various places.
+
+![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/7d4a28f9-e018-4a36-8cd5-07fbeaf32410)
+
