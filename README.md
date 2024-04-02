@@ -15,6 +15,8 @@ Then based on each hand gesture detected we can call a function which resembles 
 ![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/89a350b9-7825-494a-b927-e8ab33877ad7)
 In the above image as you can see my index and little finger is up so its 1 and the middle and ring are folded so its 0.
 
+![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/0180272b-ea26-42e3-9f7b-e54b66459871)
+
 # Future Applications
 1) We can also use the face landmarks or the full body landmarks to add differnt functionalities to our codebase
 2) It can not only be used in devices like smartphones to detect gesture to do something but can also be used for helping the physically challenged people
