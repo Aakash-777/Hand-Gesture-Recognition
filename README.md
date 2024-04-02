@@ -12,6 +12,9 @@ Then based on each hand gesture detected we can call a function which resembles 
 
 ![HandLandmarks](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/2af50c10-1c3b-4947-b8c7-5680fc283ec0)
 
+![Uploading image.png…]()
+
+
 # Future Applications
 1) We can also use the face landmarks or the full body landmarks to add differnt functionalities to our codebase
 2) It can not only be used in devices like smartphones to detect gesture to do something but can also be used for helping the physically challenged people
