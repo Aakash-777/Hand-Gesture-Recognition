@@ -10,7 +10,7 @@ For example when we show the "call me hand gesture"  our thumb tip index is at t
 
 Then based on each hand gesture detected we can call a function which resembles the gesture , like we can define and call a function to voice call someone when the "call me" gesture is shown by th user
 
-![alt text]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fface-and-hand-landmarks-detection-using-python-mediapipe-opencv%2F&psig=AOvVaw1M_t2TygKzc14T9XXJdQNJ&ust=1712103453809000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCK9cOgooUDFQAAAAAdAAAAABAJ](https://media.geeksforgeeks.org/wp-content/uploads/20210802154942/HandLandmarks.png))
+![HandLandmarks](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/2af50c10-1c3b-4947-b8c7-5680fc283ec0)
 
 # Future Applications
 1) We can also use the face landmarks or the full body landmarks to add differnt functionalities to our codebase
