@@ -22,6 +22,6 @@ In the above image as you can see my index and little finger are up so its 1 and
 Called a specific function to a specific gesture
 
 # Future Applications
-1) We can also use the face landmarks or the full body landmarks to add differnt functionalities to our codebase
-2) It can not only be used in devices like smartphones to detect gesture to do something but can also be used for helping the physically challenged people
-3) It can also be used in camera drones to reconize different hand gestures to perform multiple tasks , like when we show a thumbs up , it will take a photo of us during its flight , also it will keep gracking us based on our full body movement , like that.
+1) We can also use the face landmarks or the full body landmarks from the library itself to add different functionalities to our codebase.
+2) It can be used in various devices like smartphones to elevate hands free use or for the needs of physically challenged users.
+3) It can also be used in camera drones to recognize different hand gestures to perform multiple autonomous tasks, like when we show a thumbs up, it can take a photo of us during its flight, also it will keep tracking us based on our full body movements.
