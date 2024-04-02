@@ -12,6 +12,9 @@ Then based on each hand gesture detected we can call a function which resembles 
 
 ![HandLandmarks](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/2af50c10-1c3b-4947-b8c7-5680fc283ec0)
 
+![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/f4e23555-197c-440c-93ca-b86d9cf0b58d)
+X and Y coordinate values of every landmark indexs in each frame
+
 ![image](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/89a350b9-7825-494a-b927-e8ab33877ad7)
 In the above image as you can see my index and little finger is up so its 1 and the middle and ring are folded so its 0.
 
