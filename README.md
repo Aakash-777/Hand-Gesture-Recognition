@@ -1,6 +1,6 @@
 # Hand-Gesture-Recognition
 
-Used Google's mediapipe library to detect human hands and generate landmarks on them , used the opencv library from python to mark those landmarks and use them suitably.
+Used Google's Mediapipe library to detect human hands and generate landmarks on them, used the OpenCV library from Python to mark those landmarks and use them suitably.
 
 # Working
 Basically it works like this:
