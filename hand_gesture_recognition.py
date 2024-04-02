@@ -62,9 +62,9 @@ while True:
 
         if lmList[4][2]<lmList[8][2] and lmList[8][2]<lmList[20][2]:
             if lmList[8][1] > lmList[6][2] and lmList[12][1] > lmList[10][1] and lmList[16][1] > lmList[14][1] and not opened_2:
-                # print("call working")
+                print("call me")
                 #opened_2 = True
-                call_me(lmList)
+                # call_me(lmList)
 
 ##########################################################################
 
