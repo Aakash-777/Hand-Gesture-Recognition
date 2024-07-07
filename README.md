@@ -30,3 +30,19 @@ Called a specific function to a specific gesture
 1) We can also use the face landmarks or the full body landmarks from the library itself to add different functionalities to our codebase.
 2) It can be used in various devices like smartphones to elevate hands free use or for the needs of physically challenged users.
 3) It can also be used in camera drones to recognize different hand gestures to perform multiple autonomous tasks, like when we show a thumbs up, it can take a photo of us during its flight, also it will keep tracking us based on our full body movements.
+
+# Human-Action-Recognition
+## Overview
+Human-Action-Recognition is a project designed to detect and recognize various human actions or activities from video footage. By using Google's Mediapipe library for human figure detection and an LSTM (Long Short-Term Memory) model for classification, this project can identify actions such as walking, running, jumping, fighting, clapping, and more.
+
+## Working
+Human Figure Detection: The project leverages Google's Mediapipe library to detect human figures in video frames.
+Body Landmark Extraction: It captures body landmark coordinates from each consecutive frame of the video.
+Action Classification: The extracted coordinates are then fed into an LSTM model to classify the actions into predefined categories.
+The model was initially trained on three basic hand movements to fine-tune the action recognition capability.
+
+## Applications
+The potential applications of this project include:
+
+1) Criminal or Illegal Activity Detection: Analyzing live CCTV footage to detect suspicious or unlawful activities.
+2) Patient Activity Monitoring: Monitoring patients to prevent accidents such as falling from bed or slipping. 
