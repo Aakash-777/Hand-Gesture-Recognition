@@ -40,6 +40,7 @@ Human Figure Detection: The project leverages Google's Mediapipe library to dete
 Body Landmark Extraction: It captures body landmark coordinates from each consecutive frame of the video.
 Action Classification: The extracted coordinates are then fed into an LSTM model to classify the actions into predefined categories.
 The model was initially trained on three basic hand movements to fine-tune the action recognition capability.
+![Human-Body-Landmarks](https://github.com/Aakash-777/Hand-Gesture-Recognition/assets/108759537/7c408382-154b-4e90-9584-eabc32975484)
 
 ## Applications
 The potential applications of this project include:
